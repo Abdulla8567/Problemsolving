@@ -54,3 +54,14 @@ clc1.describe()
 # clc1.mul()
 # clc3.describe()
 
+# def self ?
+# # self is a reference to the current object (instance) of the class.
+
+# 🔹 Points to remember:
+
+# It is used inside class methods to access instance variables and methods of that object.
+
+# self is passed automatically when you call a method on an object, you don’t need to pass it manually.
+
+# You can use any name instead of self, but by convention, we always use self.
+
